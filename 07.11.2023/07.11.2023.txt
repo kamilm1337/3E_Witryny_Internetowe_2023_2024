@@ -1,0 +1,91 @@
+Zadanie 1
+      Wersja HTML      Element     	Zamiennik                                          
+1.      HTML 4.01      APPLET	   	OBJECT
+2.      HTML 4.01      MENU 	   	UL
+3.      HTML 5.0       S		CSS:text-decoration
+4.     HTML 5.0       CENTER		CSS:text-algin
+5.      HTML 4.01      DIR	   	UL
+6.      HTML 5.0       BASEFONT         CSS:color,font-family,front,size
+7.      HTML 4.01      ISINDEX          INPUT
+8.      HTML 5.0       STRIKE		CSS:text-decoration
+9.      HTML 5.0       S		CSS:text-decoration
+10.      HTML 5.0       U		CSS:text-decoration
+Zadanie 2
+                                                                          Różnice:
+HTML 4.01             
+-Brak znaczików multimedialych
+-potrzebuje <DIV> aby odzielic 
+-Trudno zaradzić niedokładnym błędą SYNAX
+
+
+HTML 5.0
+-Posiada znaczniki multimedilane
+-Nie potrzebuje <DIV> aby oddzielić
+-Bez trudu radzi sobie z błędami SYNATAX
+
+Zadanie 3
+
+HTML 4.0 - https://www.htmlhelp.com/reference/html40/
+
+HTML 4.01 - https://www.w3.org/TR/html4/
+
+HTML 5.0 - https://strefakodera.pl/tworzenie-stron-www/html-5/podstawowy-szkielet-strony-internetowej-oparty-o-html-5-dodajemy-tresc-tytul-strony
+
+
+ZADANIE 1 
+
+ZAD1(Sprawdź swoje umiejęstności)
+
+                                   OPIS I TEMATYKA
+
+Witryna internetowa	Zbiór powiązanych stron internetowych, które tworzą spójną całość. Służy do dostarczania               
+                        informacji o firmie, produktach, usługach itp.
+
+Portal internetowy	Strona internetowa, która agreguje różne informacje i usługi w jednym miejscu. Może                                                                             
+                        zawierać wiadomości, pogodę, sport, rozrywkę, pocztę elektroniczną, fora dyskusyjne itp.
+
+Sklep internetowy	serwis internetowy dający możliwość kupowania i sprzedawania produktów przez Internet
+
+Blog tekstowy		umożliwienie wstawienia w szablon strony przygotowanych zewnętrznych tekstów
+
+Wideoblog		Forma bloga, w której autorzy publikują treści wideo zamiast tekstowych wpisów. Mogą to być   
+                        vlogi, filmy instruktażowe, wywiady, recenzje itp.
+
+
+ZADANIE 2 
+ 
+Wortal internetowy  są to duże serwisy internetowe zawierające informacje z danej dziedziny.
+
+
+ZADANIE 3 
+
+1.F
+2.F
+3.F
+4.P
+5.P
+
+ZADANIE 4 
+1995 HTML (2.0) pierwsze wydanie
+1996 HTML (3.2) zwiększenie ilości atrybutów
+1997 HTML (4.0) obsługa wielu skryptów 
+2008 HTML (5.0) dodanie znaczników multimedialnych
+
+
+ZADANIE 1 (PODSUMOWANIE)
+A
+
+ZAD2
+B
+
+ZAD3
+C
+
+ZAD4
+B
+
+ZAD5
+A
+
+
+
