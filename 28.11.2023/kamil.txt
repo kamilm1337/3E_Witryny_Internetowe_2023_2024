@@ -1,0 +1,16 @@
+Zadanie 3 
+
+	ZNACZNIK	ATRYBUT		WARTOŚĆ
+	<p>		bgcolor 	red
+	<a>	 	href		http://www.wsip.pl
+	<front> 	face		size
+	<p> 		nie ma		right
+	<meta>		name		charset
+
+
+TEST 3.
+1A
+2C
+3B
+4A
+5C
