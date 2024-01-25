@@ -1,0 +1,7 @@
+Nazwa atrybutu Zastosowanie Znacznik
+type="submit" pole tworzące przycisk do wysłania danych <input>
+scrolling="no/yes/auto" istawoamoe suwaków do przewijania <frame>
+maxlenght="x" maksymalna liczba znaków <input>
+cellspacing="x"odległość między komórkami <tabele>
+id="header" identyfikator dla nagłówków <header<
+type="text" pole tekstowe <input>
